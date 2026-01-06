@@ -1,2 +1,2 @@
-# Assignment_Data Structures and Algorithms
+# Assignment_Data_Structures_and_Algorithms
 Design restaurant data functions and structures
